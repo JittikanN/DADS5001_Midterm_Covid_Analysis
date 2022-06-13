@@ -1,1 +1,2 @@
-# DADS5001_Midterm_Covid_Analysis
+# DADS6003 Kaggle In-class Competition
+# Jittikan Narapan ID: 6410422019
